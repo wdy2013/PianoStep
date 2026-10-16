@@ -1,8 +1,8 @@
 {
-  "versionCode": 10804,
-  "versionName": "1.8.4",
-  "url": "https://github.com/wdy2013/PianoStep/releases/download/v1.8.4/PianoStep-1.8.4-release.apk",
-  "size": 209874,
+  "versionCode": 10805,
+  "versionName": "1.8.5",
+  "url": "https://github.com/wdy2013/PianoStep/releases/download/v1.8.5/PianoStep-1.8.5-release.apk",
+  "size": 209976,
   "force": false,
   "notes": [
     "对演奏界面整体重构，更契合实际演奏需求",
