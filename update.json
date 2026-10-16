@@ -1,12 +1,12 @@
 {
-  "versionCode": 10802,
-  "versionName": "1.8.2",
-  "url": "https://github.com/wdy2013/PianoStep/releases/download/v1.8.2/PianoStep-1.8.2-release.apk",
-  "size": 207588,
+  "versionCode": 10803,
+  "versionName": "1.8.3",
+  "url": "https://github.com/wdy2013/PianoStep/releases/download/v1.8.3/PianoStep-1.8.3-release.apk",
+  "size": 207597,
   "force": false,
   "notes": [
-    "新增在线升级：设置页一键检查、下载并安装新版本",
-    "原生安装流程，不跳转第三方应用",
-    "国内加速镜像回退，下载更稳定"
+    "在线升级稳定性增强：国内加速镜像回退，下载更可靠",
+    "修复小体积安装包升级校验兼容问题",
+    "设置页一键检查、下载并安装新版本"
   ]
 }
